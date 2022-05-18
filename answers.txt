@@ -1,0 +1,5 @@
+3. The command "ls > newfile.txt" seemingly created an empty text document titled "newfile.txt". I believe this command has the same function as "touch".
+
+5. After running the command, it says that newfile.txt has been newly added to the repository and is ready to be pushed to GitHub. It also says that answers.txt is present however it has not been added to the repository and therefore cannot be pushed yet.
+
+6. This command shows me all the text within the file and highlights the newly added lines in green as well as adding a green "+" next to each line that is newly added.
